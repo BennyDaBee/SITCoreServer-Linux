@@ -12,7 +12,7 @@
 #### This will differ for other Linux Distros, so please lookup your steps for your distro. 
 
 ### Installing Wine
-####Run the following Commands
+#### Run the following Commands
 
   1. sudo dpkg --add-architecture i386
   2. wget -nc https://dl.winehq.org/wine-builds/winehq.key
@@ -22,7 +22,7 @@
   6. sudo apt install --install-recommends winehq-stable
 
 ### Installing Lutris
-####Run the Following Commands
+#### Run the Following Commands
 
 1. sudo add-apt-repository ppa:lutris-team/lutris
 2. sudo apt update
