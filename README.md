@@ -71,7 +71,7 @@ You should now see Lutris in the install applications.
 4. You will need to modify the IP address to your external IP
 5. In `Aki_Data/Server/configs` there will be a http.json file
 6. Change the IP Address to your external IP address
-####If Running Locally, you will need to port forward 6969 and 6970 to your server, if using a VPS you should not have to
+#### If Running Locally, you will need to port forward 6969 and 6970 to your server, if using a VPS you should not have to
 
 # You Should now be able to launch the Server and people should now be able to connect
 ## There is a discord server for support, but they may not be able to assist with the linux portion. You can find the discord [here](https://discord.gg/VengzHxNmZ)
